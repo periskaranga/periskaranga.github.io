@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T06:12:23.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="4SbEiv7Vz_-cl7KkuPWu" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T06:22:17.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="jUCmNlZQkePkQ7DVLJFx" version="17.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1198" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,29 +6,29 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="90" as="sourcePoint" />
-            <mxPoint x="140" y="140" as="targetPoint" />
+            <mxPoint x="160" y="90" as="sourcePoint" />
+            <mxPoint x="160" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-1" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="30" width="100" height="60" as="geometry" />
+          <mxGeometry x="110" y="30" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-3" target="HpL3-V4sa4N1ox7pWsq2-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-3" value="SMS is sent to user that engine is on, LCD Output&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="HpL3-V4sa4N1ox7pWsq2-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="200" as="sourcePoint" />
+            <mxPoint x="160" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-7" target="HpL3-V4sa4N1ox7pWsq2-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-7" value="a delay awaiting the user command" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-27" value="No" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-8" target="HpL3-V4sa4N1ox7pWsq2-10">
           <mxGeometry relative="1" as="geometry" />
@@ -37,19 +37,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-8" value="theft detected?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="630" width="80" height="80" as="geometry" />
+          <mxGeometry x="120" y="630" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-10" target="HpL3-V4sa4N1ox7pWsq2-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-10" value="LCD and GSM &lt;br&gt;output to proceed&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-11" target="HpL3-V4sa4N1ox7pWsq2-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-11" value="Initialising system, GPS gets coordinates&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-13" target="HpL3-V4sa4N1ox7pWsq2-15">
           <mxGeometry relative="1" as="geometry" />
@@ -58,37 +58,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-13" value="user sends stop command to &lt;br&gt;system&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="234" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="254" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-15" target="HpL3-V4sa4N1ox7pWsq2-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-15" value="relay cuts power to engine bypass to pushbutton still on&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="234" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="254" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-16" target="HpL3-V4sa4N1ox7pWsq2-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-16" value="buzzer siren starts signaling the theft&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-17" value="STOP" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="950" width="120" height="80" as="geometry" />
+          <mxGeometry x="100" y="950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-20" target="HpL3-V4sa4N1ox7pWsq2-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-20" value="Motor stops , GPS obtains current coordinates" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HpL3-V4sa4N1ox7pWsq2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-21" target="HpL3-V4sa4N1ox7pWsq2-40">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HpL3-V4sa4N1ox7pWsq2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1070" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-21" value="GSM sends the coordinates to user to retrieve vehicle" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-40" value="STOP" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="1070" width="120" height="80" as="geometry" />
+          <mxGeometry x="350" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-48" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-43" target="HpL3-V4sa4N1ox7pWsq2-3">
           <mxGeometry relative="1" as="geometry" />
@@ -97,7 +99,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-43" value="is vehicle within set radius&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="250" width="100" height="100" as="geometry" />
+          <mxGeometry x="110" y="250" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-53" target="HpL3-V4sa4N1ox7pWsq2-59">
           <mxGeometry relative="1" as="geometry" />
@@ -106,34 +108,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-53" value="Alert message sent to user with coordinates&amp;nbsp; , siren goes on&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="265" width="140" height="70" as="geometry" />
+          <mxGeometry x="480" y="265" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-54" target="HpL3-V4sa4N1ox7pWsq2-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-54" value="Relay cuts supply to engine to stop&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="234" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="254" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-59" target="HpL3-V4sa4N1ox7pWsq2-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-59" value="System remains off until user sends restart command&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-67" value="STOP" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-70" target="HpL3-V4sa4N1ox7pWsq2-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-70" value="Bypass the relay using push button for emergencies" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HpL3-V4sa4N1ox7pWsq2-74" target="HpL3-V4sa4N1ox7pWsq2-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpL3-V4sa4N1ox7pWsq2-74" value="LCD output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
